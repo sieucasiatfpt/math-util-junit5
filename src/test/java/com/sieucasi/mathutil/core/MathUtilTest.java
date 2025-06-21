@@ -31,7 +31,7 @@ public class MathUtilTest {
     //chuẩn bị bộ data
     public static Object[] [] initData() {
         return new Integer [] [] {
-            {1, 1}, {2, 2}, {5, 120}, {6, 7120}
+            {1, 1}, {2, 2}, {5, 120}, {6, 720}
         };
     }
     @ParameterizedTest
