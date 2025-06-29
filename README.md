@@ -12,4 +12,4 @@
 ###Srceenshots 
 ![DDT with JUnit](https://github.com/sieucasiatfpt/math-util-junit5/blob/main/images/DDT%20with%20JUnit.png)
 ![MathUtil](https://github.com/sieucasiatfpt/math-util-junit5/blob/main/images/MathUtil.png)
-#### © 2025 sieucasi
+#### Copyright  © 2025 sieucasi
